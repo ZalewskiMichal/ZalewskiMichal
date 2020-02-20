@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stronka udajaca inną</title>
+  
+</head>
+<body>
+
+  <h1>Historia pewnej nauki
+  </h1>
+
+    <p>Dawno, dawno temu...</p>
+
+  <h2>Gdzie?</h2>
+    <p>
+      <ul> Za
+         <li>górami</li>
+         <li>lasami</li>
+         <li>siedmioma dolinami</li>
+      </ul>
+    </p>
+  <h1> Pomyślałem że fajnie jest znajdowa stronki i próbować robić je samemu, a później sprawdzać z odem źródłowym</h1>
+    <p> <a href="http://www.pasiekafabryczna.pl/">Materiał na którym sie wzorowałem</a> 
+</body>
+</html>
