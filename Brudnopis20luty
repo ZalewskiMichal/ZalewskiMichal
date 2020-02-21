@@ -3,14 +3,14 @@
 <head>
   <title>Stronka udajaca inną</title>
     .tekst{
-      "background-color:rgb(182, 230, 176);
+      "background-color:black;
       color: white;
       margin: 20px;
       padding: 20px;"
     } 
     .tekst2137{
-      "background-color: black;
-      color: white;
+      "background-color: blue;
+      color: black;
       margin: 20px;
       padding: 20px;"
     } 
